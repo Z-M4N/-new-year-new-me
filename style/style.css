@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#banner{
+    background-image: url('/new-year-new-me/images/banner/banner1.png');
+    height: 800px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-text{
+    text-align: end;
+    position: relative;
+    top: 40%;
+    right:230px;
+    font-size: 16px;
+}
+.primary-btn{
+    background-color: orange;
+    border: 0;
+    height: 64px;
+    width: 160px;
+    border-radius: 5px;
+    position: relative;
+    top: 30px;
+}
+.header-title{
+    font-size: 65px;
+}
