@@ -96,4 +96,22 @@ h3{
 .contect-image-subtitle{
    font-size: 40px;
    font-weight: 700;
+   position: relative;
+   bottom: 250px;
+   color: white;
+   left:26px;
+}
+
+.contect-btn{
+    background-color: white;
+    color: orange;
+    border: 0;
+    position: relative;
+    bottom: 230px;
+    border-radius: 5px;
+    left:30px;
+    width: 160px;
+    height: 64px;
+    font-size: 20px;
+    font-weight: 600;
 }
