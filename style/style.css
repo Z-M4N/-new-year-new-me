@@ -115,3 +115,64 @@ h3{
     font-size: 20px;
     font-weight: 600;
 }
+/* footer section styles */
+.footer-container{
+    position: relative;
+    top: 600px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 577px;
+}
+h6{
+
+    font-size: 45px;
+    font-weight: 600;
+    position: relative;
+    top: 10px;
+}
+.footer-title{
+   position: absolute;
+   left: 20%;
+   top: 100px;
+}
+.footer-info{
+    position: relative;
+    top: 30px;
+    padding-top: 10px;
+}
+.footer-icon{
+    position: absolute;
+    top: 280px;
+    display: flex;
+    right:277px;
+}
+.footer-icon a{
+    padding-left: 10px;
+}
+.footer-subscribe-btn{
+    height: 64px;
+    width: 170px;
+    background-color: white;
+    color: red;
+    font-size: 20px;
+}
+input{
+    width: 325px;
+    height: 64px; 
+    position: relative;
+    font-size: 20px;
+    font-weight: 100;
+}
+.input-section{
+    position: relative;
+    left: 100%;
+    bottom: 136px;
+    font-size: 30px;
+}
+.footer-subscribe-btn,input{
+    position: relative;
+    left: 100%;
+    border-radius:7px;
+    display: flex;
+}
