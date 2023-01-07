@@ -119,14 +119,28 @@ h3{
 .description-section{
     text-align: center;
     position: absolute;
-    top: 300%;
+    top: 310%;
     width: 80%;
     margin-left: 199px;
 }
 .description-title{
-    font-size: 45px;
+    font-size: 60px;
     position: relative;
     bottom: 10px;
+}
+/* our services section */
+.services-container{
+     position: relative;
+     top: 500px;
+     justify-content: center;
+     text-align: center;
+     right:68px;
+     display: flex;
+    
+}
+.services-logo{
+     margin-left: 150px;
+     
 }
 /* footer section styles */
 .footer-container{
