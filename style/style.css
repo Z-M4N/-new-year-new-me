@@ -65,3 +65,22 @@ h2{
     right:24px;
 }
 /* my plan section */
+h3{
+    font-size: 40px;
+    font-weight: 700px;
+    text-align: center;
+}
+.my-plans-container{
+   max-width: 50%;
+   margin: auto;
+   position: relative;
+   top: 100px;
+   display: flex;
+}
+.my-plans-image{
+    padding-left: 70px;
+    text-align: center;
+}
+.my-plans-subtitle{
+    color: #737272;
+}
